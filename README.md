@@ -1,5 +1,5 @@
 # ProperBMS
-Proper BMS, based around the S-8254
+Proper "slim" BMS, based around the S-8254
 
 As I was tinkering around a lot with Li-Ion cells (not LiPo yet) the last year I did quite a few hours research protecting me and my cells. I looked for (an bought) one of those "simple" protection circuits. It seems there are only quite two versions of them available:
 
